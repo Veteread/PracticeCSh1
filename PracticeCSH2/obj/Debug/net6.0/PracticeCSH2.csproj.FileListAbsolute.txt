@@ -1,0 +1,15 @@
+D:\STUDY\Csharp\PracticeCSH2\bin\Debug\net6.0\PracticeCSH2.exe
+D:\STUDY\Csharp\PracticeCSH2\bin\Debug\net6.0\PracticeCSH2.deps.json
+D:\STUDY\Csharp\PracticeCSH2\bin\Debug\net6.0\PracticeCSH2.runtimeconfig.json
+D:\STUDY\Csharp\PracticeCSH2\bin\Debug\net6.0\PracticeCSH2.dll
+D:\STUDY\Csharp\PracticeCSH2\bin\Debug\net6.0\PracticeCSH2.pdb
+D:\STUDY\Csharp\PracticeCSH2\obj\Debug\net6.0\PracticeCSH2.csproj.AssemblyReference.cache
+D:\STUDY\Csharp\PracticeCSH2\obj\Debug\net6.0\PracticeCSH2.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\Csharp\PracticeCSH2\obj\Debug\net6.0\PracticeCSH2.AssemblyInfoInputs.cache
+D:\STUDY\Csharp\PracticeCSH2\obj\Debug\net6.0\PracticeCSH2.AssemblyInfo.cs
+D:\STUDY\Csharp\PracticeCSH2\obj\Debug\net6.0\PracticeCSH2.csproj.CoreCompileInputs.cache
+D:\STUDY\Csharp\PracticeCSH2\obj\Debug\net6.0\PracticeCSH2.dll
+D:\STUDY\Csharp\PracticeCSH2\obj\Debug\net6.0\refint\PracticeCSH2.dll
+D:\STUDY\Csharp\PracticeCSH2\obj\Debug\net6.0\PracticeCSH2.pdb
+D:\STUDY\Csharp\PracticeCSH2\obj\Debug\net6.0\PracticeCSH2.genruntimeconfig.cache
+D:\STUDY\Csharp\PracticeCSH2\obj\Debug\net6.0\ref\PracticeCSH2.dll
